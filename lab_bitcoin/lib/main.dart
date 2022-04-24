@@ -39,9 +39,9 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String selecRates = "btc";
+  String selecRates = "Select";
   List<String> ratesList = [
-    "btc","eth","ltc","bch","bnb","eos","xrp","xlm","link",
+    "Select","btc","eth","ltc","bch","bnb","eos","xrp","xlm","link",
     "dot","yfi","usd","aed","ars","aud","bdt","bhd","bmd",
     "brl","cad","chf","clp","cny","czk","dkk","eur","gbp",
     "hkd","huf","idr","ils","inr","jpy","krw","kwd","lkr",
