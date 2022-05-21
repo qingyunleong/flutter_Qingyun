@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<String> ratesList = [
     "Select","btc","eth","ltc","bch","bnb","eos","xrp","xlm","link",
     "dot","yfi","usd","aed","ars","aud","bdt","bhd","bmd",
-    "brl","cad","chf","clp","cny","czk","dkk","eur","gbp",
+    "brl","cad","chf","clp","cny","czk","dkk","eur","gbp",   
     "hkd","huf","idr","ils","inr","jpy","krw","kwd","lkr",
     "mmk","mxn","myr","ngn","nok","nzd","php","pkr","pln",
     "rub","sar","sek","sgd","thb","try","twd","uah","vef",
